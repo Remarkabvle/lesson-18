@@ -130,7 +130,7 @@ nav{
     background: black;
 }
 
-@media (max-width: 650px){
+@media (max-width: 910px){
     .header__nav-list{
         position: fixed;
         top: 0;
@@ -154,6 +154,12 @@ nav{
    .show-header__nav-list{
         left: 0;
    }
+}
+
+@media (max-width: 650px){
+   .first-btn{
+        display: none;
+}
 }
 
 main{
