@@ -6,6 +6,11 @@
     list-style: none;
 }
 
+body {
+   padding-top: 98px;
+   background-color: #F4F8FA;
+}
+
  a{
     color: inherit;
  }

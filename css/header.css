@@ -5,7 +5,9 @@ nav{
     width: 100%;
     padding: 25px 0px;
     z-index: 999;
+    background: white;
 }
+
 
 .show-navshrink{
     box-shadow: 0px 0px 15px gray;
@@ -162,6 +164,4 @@ nav{
 }
 }
 
-main{
-    padding-top: 100px;
-}
+
